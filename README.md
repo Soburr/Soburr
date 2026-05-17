@@ -11,10 +11,11 @@ I have hands-on experience developing production-ready systems including payment
 ## Tech Stack
 
 - Backend: Laravel, PHP, REST APIs
-- Frontend: Vue.js, JavaScript, HTML, CSS
+- Frontend: Vue.js, JavaScript, HTML, Alpine, TailwindCSS, Livewire
 - Database: MySQL, PostgreSQL
-- Integrations: Paystack, Smile ID
-- Tools: Git, Docker, Postman
+- Integrations: Paystack, Smile ID, Open AI
+- Testing & Documentation: PHPUnit, PestPHP, Gitbook, Scribe, Postman
+- Cloud & DevOps: Laravel Forge, DigitalOcean, Azure
 
 ---
 
@@ -52,9 +53,5 @@ Built backend architecture for provider onboarding, ratings, availability manage
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn]
-- Portfolio: [Your Portfolio]
-- Email: [Your Email]
-
-## Github stats
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soburr&show_icons=true&hide_border=true)
+- Portfolio: https://newton09.netlify.app
+- Email: adebesinnewton99@gmail.com
