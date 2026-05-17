@@ -19,16 +19,26 @@ I have hands-on experience developing production-ready systems including payment
 
 ---
 
-## What I Build
+## 💼 Professional Experience
 
-- Payment & billing systems
-- Vendor/service platforms
-- Authentication & authorization systems
-- API integrations
-- Admin dashboards
-- Subscription management systems
+### Backend Engineer — FIXORSHUB
+- Engineered multi-portal backend systems for Admins, Vendors, Customers, and Service Providers
+- Integrated Smile ID biometric KYC verification
+- Built authentication systems, admin dashboards, promotions, disputes, and reporting modules
+- Designed scalable REST APIs and centralized authentication systems
+
+### Backend Engineer — WRITINOVA
+- Architected and deployed the full backend infrastructure
+- Integrated Paystack payment systems
+- Reduced API response times by 30% through optimization and caching
+
+### Fullstack Engineer — QUALITY GADGETS HUB
+- Built an eCommerce platform with inventory management and secure admin dashboards
+- Improved backend load times by 25%
+- Launched MVP in under 6 weeks
 
 ---
+
 
 ## Featured Projects
 
